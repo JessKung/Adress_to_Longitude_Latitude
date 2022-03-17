@@ -1,4 +1,4 @@
-#The Way to Creat Longitude and Latitude in Excel
+# Ways to Creat Longitude and Latitude in Excel
 
 ■Without API   
 ・Google Sheet+geocode by awesome table   
